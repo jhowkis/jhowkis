@@ -1,5 +1,5 @@
 # 🚀 Sobre mim:
-# Olá, eu sou o Jonatas Ferreira! 👋
+# Olá, eu sou o Jonatas Ferreira! :wave:
 
 Bem-vindo(a) ao meu perfil do GitHub. Sou **Engenheiro Elétrico**, **Professor Universitário** e **Programador de Sistemas Embarcados**. Sou um entusiasta de tecnologia focado em organização, aprendizado contínuo e desenvolvimento de projetos eficientes.
 
