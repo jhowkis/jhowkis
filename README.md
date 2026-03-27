@@ -1,5 +1,18 @@
 # 💫 About Me:
-#Olá, eu sou Jonatas Ferreira, um Professor de tecnologia, automação e eletrônica<br><br>Tecnologias: Adoro programar em:<br><br>Python<br>C++<br>HTML/CSS/Javascript<br>SQL<br>##Objetivos: "Atualmente estou lecionando no ensino Superior no Centro Universitário Claretiano Claretiano<br><br>###Links de contato:<br><br>LinkedIn<br>Email: ferreira_jonatas@hotmail.com
+# Olá, eu sou o Jonatas Ferreira! 👋
+
+Bem-vindo(a) ao meu perfil do GitHub. Sou um entusiasta de tecnologia focado em organização, aprendizado contínuo e desenvolvimento de projetos eficientes.
+
+---
+
+## 🚀 Sobre mim
+Atualmente, estou estruturando minha presença no ecossistema **Open Source** e explorando as melhores práticas de desenvolvimento com **Git** e **GitHub**. 
+
+* 💻 Buscando dominar novas ferramentas e linguagens.
+* 🧠 Acredito que a documentação clara é a chave para um bom código.
+* 🤝 Aberto a colaborações e troca de conhecimentos.
+---
+*“O melhor momento para começar foi ontem. O segundo melhor é agora.”*
 
 
 ## 🌐 Socials:
