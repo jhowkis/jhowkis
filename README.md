@@ -21,7 +21,7 @@
 
 ### ⚡ Sobre Mim
 
-Bem-vindo(a) ao meu perfil! Sou entusiasta de tecnologia focado em organização, aprendizado contínuo e no desenvolvimento de projetos eficientes. Atualmente, estou estruturando minha presença no ecossistema **Open Source** e explorando as melhores práticas de desenvolvimento com **Git** e **GitHub**.
+Bem-vindo(a) ao meu perfil! Sou entusiasta de tecnologia focado em organização, aprendizado contínuo e no desenvolvimento de projetos eficientes. Atualmente, estou a estruturar a minha presença no ecossistema **Open Source** e a explorar as melhores práticas de desenvolvimento com **Git** e **GitHub**.
 
 - ⚡ **Formação:** Engenheiro Elétrico com sólida base técnica.
 - 🎓 **Docência:** Professor Universitário, compartilhando conhecimento e formando novos profissionais.
@@ -37,7 +37,7 @@ Bem-vindo(a) ao meu perfil! Sou entusiasta de tecnologia focado em organização
 
 | Categoria | Tecnologias |
 | :--- | :--- |
-| **Sistemas Embarcados & CAD** | ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white) ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white) ![AutoCAD](https://img.shields.io/badge/AutoCAD-211F1F?style=flat-square&logo=autodesk&logoColor=white) ![Inventor](https://img.shields.io/badge/Autodesk_Inventor-0696D7?style=flat-square&logo=autodesk&logoColor=white) ![Tinkercad](https://img.shields.io/badge/Tinkercad-FF3C1A?style=flat-square&logo=tinkercad&logoColor=white) |
+| **Sistemas Embarcados & CAD** | ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white) ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white) ![AutoCAD](https://img.shields.io/badge/AutoCAD-211F1F?style=flat-square&logo=autodesk&logoColor=white) ![Inventor](https://img.shields.io/badge/Autodesk_Inventor-0696D7?style=flat-square&logo=autodesk&logoColor=white) ![Tinkercad](https://img.shields.io/badge/Tinkercad-FF3C1A?style=flat-square) |
 | **Linguagens & Backend** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=flat-square&logo=xampp&logoColor=white) |
 | **Web & Frontend** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white) |
 | **Documentação & Design** | ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=Canva&logoColor=white) |
@@ -47,18 +47,18 @@ Bem-vindo(a) ao meu perfil! Sou entusiasta de tecnologia focado em organização
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=jhowkis&theme=dark&show_icons=true&hide_border=false&count_private=true" alt="Estatísticas do GitHub" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhowkis&theme=dark&hide_border=false&layout=compact" alt="Linguagens mais usadas" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=jhowkis&show_icons=true&theme=dark&count_private=true" alt="Estatísticas do GitHub" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhowkis&layout=compact&theme=dark" alt="Linguagens mais usadas" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jhowkis&theme=dark&hide_border=false" alt="Sequência de Commits" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jhowkis&theme=dark" alt="Sequência de Commits" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=jhowkis&icon=0&color=0" alt="Contador de Visitas" />
+  <img src="https://komarev.com/ghpvc/?username=jhowkis&label=Visualizacoes+do+Perfil&color=00979D&style=flat" alt="Contador de Visitas" />
 </div>
