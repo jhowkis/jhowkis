@@ -23,6 +23,11 @@ Atualmente, além da atuação acadêmica, estou estruturando minha presença no
 ![Autodesk Inventor](https://img.shields.io/badge/Autodesk%20Inventor-0696D7?style=for-the-badge&logo=autodesk&logoColor=white)
 ![Tinkercad](https://img.shields.io/badge/Tinkercad-FF3C1A?style=for-the-badge&logo=tinkercad&logoColor=white)
 ![3D Modeling](https://img.shields.io/badge/3D%20Modeling-4B0082?style=for-the-badge&logo=3d-republic&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
+
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=jhowkis&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=jhowkis&theme=dark&hide_border=false)<br/>
